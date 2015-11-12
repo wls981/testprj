@@ -4,6 +4,7 @@ public class Test2 {
 
 	public static void main(String[] args) {
 		System.out.println("my name is test2...d");
+		System.out.println("我改了东西");
 	}
 
 }
